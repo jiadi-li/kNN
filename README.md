@@ -3,7 +3,8 @@ December 2015
 ### Objective:
 To apply the k-Nearest Neighbors classification algorithm with a set of classified historical data in classifying a target data
 
-###Files:
+
+### Files:
 
 2 data source file (LoanStats3b.csv, LoanStats3c.csv): 
 
@@ -14,4 +15,5 @@ In this program, data from “LoanStats3b.csv” is used as training set for the
 1 python program file (kNN loan model.py)
 
 
-### Reference: Machine Learning in Action by Peter Harrington
+### Reference: 
+Machine Learning in Action by Peter Harrington
